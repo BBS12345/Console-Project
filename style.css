@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+    text-align:center;
+    font-family:Century Gothic;
+    color:aqua;
+}
+h1{
+    font-weight:lighter;
+    font-size:48px;
+}
+#p1,#p1{
+    font-size:28px;
+}
+p{
+    font-size:22px;
+}
+a{
+    color:blue;
+}
+a:hover{
+    color:darkblue;
+}
